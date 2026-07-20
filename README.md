@@ -1,5 +1,7 @@
 # AIME-2026-MDS
 
+![AIME 2026](AIME2026.jpg)
+
 ## Paper
 
 [Machine Learning-based Survival Prediction of Outcomes in Myelodysplastic Syndromes](https://books.google.com/books?id=AHDyEQAAQBAJ&newbks=0&printsec=frontcover&pg=PA220&dq=info:mCuDEELv6qQJ:scholar.google.com&hl=en&source=newbks_fb#v=onepage&q&f=false)
